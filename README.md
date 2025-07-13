@@ -7,7 +7,7 @@ This project capture the video using webcam and then performs hands detection an
 
 ### Hands Gesture Detection
 This project performs hands guesture recognition in real time on a pretrained model. The output can be used to recognize specific hand gestures from a user, and invoke application features that correspond to those gestures.
-<video width="630" height="300" src="Hands_Gestures_Recognition/8Hand_Guestures_Recognition/OutputVideo1.webm" controls></video>
+<video width="630" height="300" src="https://github.com/SahilKumar777/AI-Computer-Vision/blob/main/Hands_Gestures_Recognition/8Hand_Guestures_Recognition/OutputVideo.webm" controls></video>
 
 ### Face Detection
 This project performs face detection in real time using mediapipe framework. The output can be used to detect human faces and count number of human faces in the frame, and it can be used in various applications.
