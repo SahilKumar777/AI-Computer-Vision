@@ -7,3 +7,4 @@ This repo contains my "Computer Vision &amp; AI" related projects.
 ### Face Landmarks Detection
 ### Pose Landmarks Detection
 ### Holistic Landmarks Detection
+### Objects Detection
