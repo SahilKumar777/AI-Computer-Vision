@@ -8,7 +8,7 @@ This project capture the video using webcam and then performs hands detection an
 |----|----|
 |<img src="Hands_Gestures_Recognition/Hands_Keypoint_detection/InputVideo.mp4" alt="Image" height="280"/>|<img src="Hands_Gestures_Recognition/Hands_Keypoint_detection/InputVideo.mp4" alt="Image" height="280"/>|
 
-
+[OutputVideo.webm](https://github.com/user-attachments/assets/76ee4cb3-50f6-4adf-81d7-771c68ac394d)
 
 
 ### Hands Gesture Detection
@@ -21,18 +21,18 @@ This project performs hands guesture recognition in real time on a pretrained mo
 
 
 
-
 ### Face Detection
 This project performs face detection in real time using mediapipe framework. The output can be used to detect human faces and count number of human faces in the frame, and it can be used in various applications.
 </br>
+
+
 |Input Image|Face Detection with 6 Keypoints|
 |----|----|
 |<img src="Face_Recognition/Face_Landmarks_Detection/SahilProfilePic.png" alt="Image" height="280"/>|<img src="Face_Recognition/Face_Detection/SahilKumarPic_Outout.png" alt="Image" height="280"/>|
 
 |Input Video|Face Detection Output|
 |----|----|
-|![Input Video](https://github.com/SahilKumar777/AI-Computer-Vision/blob/mainFace_Recognition/Face_Detection/InputVideo.mp4)|![Output video](Face_Recognition/Face_Detection/OutputVideo1%20(1).webm)|
-
+| | |
 
 
 
