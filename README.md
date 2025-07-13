@@ -17,6 +17,7 @@ This project performs face detection in real time using mediapipe framework. The
 <video width="" height="360" src="https://github.com/SahilKumar777/AI-Computer-Vision/blob/main/Face_Recognition/Face_Detection/OutputVideo1%20(1).webm" controls outoplay></video>
 
 ![new video](Face_Recognition/Face_Detection/OutputVideo1%20(1).webm)
+![Input Video](Face_Recognition/Face_Detection/InputVideo.mp4)
 
 ### Face Landmarks Detection
 This project performs face landmarks detection in real time using mediapipe framework. The output can be used to recognize a user, and can be used in various applications like to identify human facial expressions and apply facial filters and effects to create a virtual avatar.
