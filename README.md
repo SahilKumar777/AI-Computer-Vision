@@ -48,6 +48,12 @@ This project performs face landmarks detection in real time using mediapipe fram
 |<img src="Face_Recognition/Face_Landmarks_Detection/SahilProfilePic.png" alt="Image" height="280"/>|<img src="Face_Recognition/Face_Landmarks_Detection/FaceMeshOutput.png" alt="Image" height="280"/>|
 
 
+### Face Stylization (Filters)
+This project performs face stylization using mediapipe framework. The output can be used to cretate styles photo, and can be used in various applications like to create artistic photo and apply facial filters and effects to create a virtual avatar.
+</br>
+|Input Image|Face Filter 1|Face Filter 2|Face Filter 3|
+|----|----|----|----|
+|<img src="Face_Recognition/Face_Landmarks_Detection/SahilProfilePic.png" alt="Image" height="280"/>|<img src="Face_Recognition/Face_Stylization/filter_1_output.png" alt="Image" height="280"/>|<img src="Face_Recognition/Face_Stylization/filter_2_output.png" alt="Image" height="280"/>|<img src="Face_Recognition/Face_Stylization/filter_3_output.png" alt="Image" height="280"/>|
 
 
 ### Pose Landmarks Detection
