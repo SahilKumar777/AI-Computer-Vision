@@ -31,7 +31,7 @@ This project performs face detection in real time using mediapipe framework. The
 
 |Input Video|Face Detection Output|
 |----|----|
-|<img src="Face_Recognition/Face_Detection/face_detection_input2.gif" alt="Image" height="280"/> | <img src="Face_Recognition/Face_Detection/face_detection_output1.gif" alt="Image" height="280"/>|
+|<img src="Face_Recognition/Face_Detection/face_detection_in.gif" alt="Image" height="280"/> | <img src="Face_Recognition/Face_Detection/face_detection_out.gif" alt="Image" height="280"/>|
 
 
 ## Face Landmarks Detection
