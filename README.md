@@ -13,7 +13,7 @@ This project capture the video using webcam and then performs hands detection an
 This project performs hands guesture recognition in real time on a pretrained model. The output can be used to recognize specific hand gestures from a user, and invoke application features that correspond to those gestures.
 </br>
 
-|Input Video|Hand Gesture Detection|
+|Gesture Detection Input Video|Hand Gestures Detected Video|
 |----|----|
 |<img src="Hands_Gestures_Recognition/8Hand_Guestures_Recognition/hand_gestures_recognise_input.gif" alt="Image" height="280"/>|<img src="Hands_Gestures_Recognition/8Hand_Guestures_Recognition/hand_gestures_recognise_output.gif" alt="Image" height="280"/>|
 
@@ -25,11 +25,11 @@ This project performs face detection in real time using mediapipe framework. The
 </br>
 
 
-|Input Image|Face Detection with 6 Keypoints|
+|Input Face Image|Face Detection with 6 Keypoints|
 |----|----|
 |<img src="Face_Recognition/Face_Landmarks_Detection/SahilProfilePic.png" alt="Image" height="225"/>|<img src="Face_Recognition/Face_Detection/SahilKumarPic_Outout.png" alt="Image" height="225"/>|
 
-|Input Video|Face Detection Output|
+|Face Detection Input Video|Face Detected Output Video|
 |----|----|
 |<img src="Face_Recognition/Face_Detection/face_detection_input.gif" alt="Image" height="280"/> | <img src="Face_Recognition/Face_Detection/face_detection_output.gif" alt="Image" height="280"/>|
 
@@ -37,11 +37,11 @@ This project performs face detection in real time using mediapipe framework. The
 ## Face Landmarks Detection
 This project performs face landmarks detection in real time using mediapipe framework. The output can be used to recognize a user, and can be used in various applications like to identify human facial expressions and apply facial filters and effects to create a virtual avatar.
 
-|Input Image|478 Face Landmarks Detection|
+|Face Input Image|478 Face Landmarks Detected|
 |----|----|
 |<img src="Face_Recognition/Face_Landmarks_Detection/SahilProfilePic.png" alt="Image" height="225"/>|<img src="Face_Recognition/Face_Landmarks_Detection/FaceMeshOutput.png" alt="Image" height="225"/>|
 
-|Input Video|478 Face Landmarks Detection|
+|Face Landmarks detect Input Video|478 Face Landmarks Detected Video|
 |----|----|
 |<img src="Face_Recognition/Face_Landmarks_Detection/face_landmarks_detection_input.gif" alt="Image" height="280"/>|<img src="Face_Recognition/Face_Landmarks_Detection/face_landmarks_detection_output.gif" alt="Image" height="280"/>|
 
@@ -66,7 +66,7 @@ This project performs pose landmarks detection in real time using mediapipe fram
 
 
 ### Holistic Landmarks Detection
-This project performs pose, face and hands landmarks detection in real time using mediapipe framework. The output can be can be used in various applications like to identify key body locations, analyze posture, and categorize movements.
+This project performs pose, face and hands landmarks detection in real time using mediapipe framework. The output can be used in various applications like to identify key body locations, analyze posture, and categorize movements.
 </br>
 <video src="https://github.com/user-attachments/assets/d3cb8acc-587d-4ee9-af36-1fbcc922f06f" autoplay loop></video>
 
