@@ -4,11 +4,10 @@ This repo contains my "Computer Vision &amp; AI" related projects.
 ### Hands Landmarks Detection
 This project capture the video using webcam and then performs hands detection and hands key points detection. It finally provides the recognition video of hand landmarks of the detected hands.
 </br>
-|Input Image|21 Hand Landmarks Detection|
-|----|----|
-|<img src="Hands_Gestures_Recognition/Hands_Keypoint_detection/InputVideo.mp4" alt="Image" height="280"/>|<img src="Hands_Gestures_Recognition/Hands_Keypoint_detection/InputVideo.mp4" alt="Image" height="280"/>|
+<video src="https://github.com/user-attachments/assets/f6ea31a0-7065-4145-b7db-ce55dd682b49" autoplay loop></video>
 
-[OutputVideo.webm](https://github.com/user-attachments/assets/76ee4cb3-50f6-4adf-81d7-771c68ac394d)
+
+
 
 
 ### Hands Gesture Detection
