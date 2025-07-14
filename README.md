@@ -63,10 +63,7 @@ This project performs pose landmarks detection in real time using mediapipe fram
 ### Holistic Landmarks Detection
 This project performs pose, face and hands landmarks detection in real time using mediapipe framework. The output can be can be used in various applications like to identify key body locations, analyze posture, and categorize movements.
 </br>
-|Input Image|Holistic Landmarks Detection|
-|----|----|
-|<img src="Holistic_Landmarks_Detection/Holistic Landmarks_Detection/Sahil_pose.jpeg" alt="Image" width="280"/>|<img src="Holistic_Landmarks_Detection/Holistic Landmarks_Detection/Output_Holistic.png" alt="Image" width="280"/>|
-
+<video src="https://github.com/user-attachments/assets/d3cb8acc-587d-4ee9-af36-1fbcc922f06f" autoplay loop></video>
 
 
 
